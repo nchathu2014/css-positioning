@@ -25,7 +25,7 @@ This is to inherit its positioning from its parent element.
 - **Clear**
 positions an element according to document flow, and then moves it to the far left or right as possible. Elements following a floated element will move up as far as possible.
 
-- **Clear**
+- **Centering elements**
 centering the elements vertically and horizontally
 
 

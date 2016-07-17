@@ -11,8 +11,14 @@ body {
 
 .blueBox {
     background: #627da0;
+    margin:0 auto;
 }
 
 .greenBox {
-     background: #5b8054;  
+     background: #5b8054;
+     position:absolute;
+     top:50%;
+     margin-top:-50px;
+     left:50%;
+     margin-left:-50px;
 }
