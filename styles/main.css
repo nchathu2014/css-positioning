@@ -11,6 +11,8 @@ body {
 
 .blueBox {
     background: #627da0;
+    top:100px;  /*for static positioning left,top,bottom,right is not working*/
+    left:300px;
 }
 
 .greenBox {
