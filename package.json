@@ -1,0 +1,23 @@
+{
+  "name": "css-positioning",
+  "version": "1.0.0",
+  "description": "Learn the CSS positioning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nchathu2014/css-positioning.git"
+  },
+  "keywords": [
+    "CSS",
+    "Positioning"
+  ],
+  "author": "T.D.N.Chathuranga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nchathu2014/css-positioning/issues"
+  },
+  "homepage": "https://github.com/nchathu2014/css-positioning#readme"
+}
