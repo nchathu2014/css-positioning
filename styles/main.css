@@ -8,11 +8,10 @@ body {
     height: 100px;
     margin-bottom: 10px;
 }
-
+.container{
+    margin: 20px;
+}
 .blueBox {
     background: #627da0;
-}
-
-.greenBox {
-     background: #5b8054;  
+    float:left;
 }
