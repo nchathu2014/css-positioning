@@ -11,8 +11,14 @@ body {
 
 .blueBox {
     background: #627da0;
+    float:left;
 }
 
 .greenBox {
-     background: #5b8054;  
+     background: #5b8054;
+    float:left;
+}
+
+h1,p{
+    clear:left;
 }
