@@ -15,6 +15,8 @@ This position of an element relative to its original position.  The element's or
 
 - **Static position**  
 This is the default behavior of elements
+- **Inherit position**  
+This is to inherit its positioning from its parent element.
 
 
 
