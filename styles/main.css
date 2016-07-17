@@ -1,6 +1,7 @@
 body {
     background-color: #1f1f1f;
     color: #bfbfbf;
+    height: 2000px;
 }
 
 .box {
@@ -11,8 +12,20 @@ body {
 
 .blueBox {
     background: #627da0;
+    position:absolute;
+    top:0px;
+    left:0px;
 }
 
 .greenBox {
      background: #5b8054;  
+}
+
+.container{
+    background-color:rgba(0,0,0,0.4);
+    width: 400px;
+    height:400px;
+    position:absolute;
+    top:50px;
+    left:400px;
 }
