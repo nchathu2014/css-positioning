@@ -11,6 +11,16 @@ body {
 
 .blueBox {
     background: #627da0;
+    position:relative;
+    bottom:60px;
+}
+
+.container{
+    background-color: rgba(0,0,0,0.4);
+    width: 200px;
+    height:200px;
+    position:absolute;
+
 }
 
 .greenBox {
