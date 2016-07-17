@@ -11,8 +11,18 @@ body {
 
 .blueBox {
     background: #627da0;
+    position:inherit;
+    top:100px;
+    left: 200px;
 }
 
 .greenBox {
      background: #5b8054;  
+}
+
+.container{
+    background-color: rgba(0,0,0,0.4);
+    width: 400px;
+    height:400px;
+    position:relative;
 }
