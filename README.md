@@ -7,4 +7,5 @@ Learn the CSS positioning
 - **Fixed position**  
 This position of an element **relative to the browser window**.  The element **always stays fixed in place**, even when scrolling.
 
-- 
+- **Absolute position**
+This position of an element **out of document flow**, meaning the browser acts as if the element has no width and height, and the other elements on the page move up as if it was never there.  The position of the element is then fixed relative to the top level container, or the closest parent with a set positioning.
