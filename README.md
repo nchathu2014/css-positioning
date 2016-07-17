@@ -19,7 +19,7 @@ This is the default behavior of elements
 - **Inherit position**  
 This is to inherit its positioning from its parent element.
 
--**Floating**
+- **Floating**  
  Removes an element from normal document flow.  It then takes that element and pushes it to the far right/left as possible.  Other elements will move up as far as possible to flow around the element and take its orginal space.
 
 
