@@ -19,6 +19,9 @@ This is the default behavior of elements
 - **Inherit position**  
 This is to inherit its positioning from its parent element.
 
+- **Z-index**
+This property is make the component ordering stack
+
 
 
 

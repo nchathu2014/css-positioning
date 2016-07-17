@@ -11,8 +11,13 @@ body {
 
 .blueBox {
     background: #627da0;
+    position: absolute;
+    top:80px;
+    left:80px;
+    z-index:1
 }
 
 .greenBox {
-     background: #5b8054;  
+     background: #5b8054;
+     position: absolute;
 }
